@@ -609,6 +609,11 @@ const allSites = [
         "year": 2030,
         "website": "https://aliimrans.com"
     },
+    {
+        "name": "Lily Ge",
+        "year": 2029,
+        "website": "https://lilyjge.github.io/"
+    },
 ];
 
 export default allSites;
