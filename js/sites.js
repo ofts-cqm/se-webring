@@ -614,6 +614,11 @@ const allSites = [
         "year": 2029,
         "website": "https://lilyjge.github.io/"
     },
+    {
+        "name": "Leonardo Montes Quiliche",
+        "year": 2029,
+        "website": "https://www.leonardomontes.ca"
+    },
 ];
 
 export default allSites;
