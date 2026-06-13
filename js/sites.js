@@ -527,7 +527,7 @@ const allSites = [
     {
         "name": "Quinn Wang",
         "year": 2030,
-        "website": "https://wangquinn.vercel.app/"
+        "website": "https://www.quinnwang.me/"
     },
     {
         "name": "Bhuvnesh Nagpal",
