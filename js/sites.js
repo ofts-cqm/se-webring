@@ -619,6 +619,11 @@ const allSites = [
         "year": 2029,
         "website": "https://www.leonardomontes.ca"
     },
+    {
+        "name": "Davis Liu",
+        "year": 2029,
+        "website": "https://davisliu2006.github.io"
+    },
 ];
 
 export default allSites;
