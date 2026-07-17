@@ -472,7 +472,7 @@ const allSites = [
     {
         "name": "Angelina Wang",
         "year": 2029,
-        "website": "https://archangelinux.vercel.app/"
+        "website": "https://angiebw.com/"
     },
     {
         "name": "Ricky Tang",
