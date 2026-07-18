@@ -472,7 +472,7 @@ const allSites = [
     {
         "name": "Angelina Wang",
         "year": 2029,
-        "website": "https://archangelinux.vercel.app/"
+        "website": "https://angiebw.com/"
     },
     {
         "name": "Ricky Tang",
@@ -625,10 +625,15 @@ const allSites = [
         "website": "https://davisliu2006.github.io"
     },
     {
+        "name": "Angus Sun",
+        "year": 2030,
+        "website": "https://angussun.com"
+    },
+    {
         "name": "Nathan Li",
         "year": 2029,
         "website": "https://thenathan.li/"
-    },
+    }
 ];
 
 export default allSites;
