@@ -624,6 +624,11 @@ const allSites = [
         "year": 2029,
         "website": "https://davisliu2006.github.io"
     },
+    {
+        "name": "Nathan Li",
+        "year": 2029,
+        "website": "https://thenathan.li/"
+    },
 ];
 
 export default allSites;
