@@ -637,7 +637,7 @@ const allSites = [
     {
         "name": "Sam Chen",
         "year": 2030,
-        "website": "https://ofts-cqm.vercel.app/"
+        "website": "https://code.ofts-cqm.xyz/"
     },
     {
         "name": "Dominik Ritz",
